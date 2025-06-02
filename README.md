@@ -8,9 +8,13 @@ No extra libraries are required beyond the latest Anaconda distribution. This pr
 Project Motivation:
 
 This project addresses critical healthcare challenges using CMS Nursing Home Compare data:
+
 o	Predictive Accuracy: Can we predict quality scores with >99% accuracy?
+
 o	Performance Drivers: What factors most influence quality scores?
+
 o	Care Differences: How do short-stay vs long-stay metrics differ?
+
 
 Results: 
 
