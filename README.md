@@ -15,11 +15,14 @@ o	Care Differences: How do short-stay vs long-stay metrics differ?
 Results: 
 
 Key Findings:
+
 •	Achieved 99.9% accuracy (R²) across all quality measures
+
 •	Identified Performance Ratio as strongest predictor
+
 •	Short-stay metrics show 3x higher variance than long-stay
 
-Licensing, Authors, and Acknowledgements
+Licensing, Authors, and Acknowledgements:
 
 Data Source:
 NH_QualityMsr_Claims_May2025.csv from Centers for Medicare & Medicaid Services (public domain).
@@ -33,10 +36,13 @@ Author:
 Suresh Kannan (Udacity Data Scientist Nanodegree Student)
 
 Acknowledgements:
+
 •	Udacity instructors for project guidance
+
 •	CMS for maintaining comprehensive healthcare datasets
 
 License:
+
 No additional licenses needed from the author 
 
 
